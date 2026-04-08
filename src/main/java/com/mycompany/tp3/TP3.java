@@ -26,11 +26,7 @@ public class TP3 {
         p.RecepcionProductos(p1, lista);
          p.RecepcionProductos(p2, lista);
         
-        
-        
-        
-    
-        
+       
         
         
     }
